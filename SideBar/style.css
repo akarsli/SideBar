@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(https://w0.peakpx.com/wallpaper/982/12/HD-wallpaper-modern-design-abstract-art-background-design-modern.jpg) center no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 100vh;
+    width: 100%;
+}
+
+.sidebar-menu{
+    height: 100%;
+    width: 280px;
+    background-color: rgba(255, 255, 255, .3);
+    box-shadow: 0 0 6px rgba(255, 255, 255, .6);
+}
+ 
+.title{
+    position: absolute;
+    width: 280px;
+    height: 60px;
+    box-shadow: 0 0 6px rgba(255, 255, 255, .8);
+
+}
+
+.title a{
+    color: #ffff;
+    font-size: 25px;
+    font-weight: 500;
+    left: 80px;
+    top: 15px;
+    position: absolute;
+}
+
+.menu{
+    position: absolute;
+    top: 60px;
+    padding: 24px 18px;
+    font-size: 20px;
+}
+
+.menu li{
+    list-style: none;
+    padding: 16px;
+}
+
+.menu i{
+    padding: 10px;
+    color: #ffff;
+}
+
+.menu a{
+    text-decoration: none;
+    color: #ffff;
+}
+
+.social-media{
+    position: absolute;
+    bottom: 20px;
+    left: 50px;
+}
+
+.social-media i{
+    font-size: 20px;
+    padding: 10px;
+    color: #ffff;
+}
