@@ -4,11 +4,9 @@
 }
 
 body{
-    background: url(https://w0.peakpx.com/wallpaper/982/12/HD-wallpaper-modern-design-abstract-art-background-design-modern.jpg) center no-repeat;
-    background-size: cover;
-    position: relative;
     height: 100vh;
     width: 100%;
+    background-image: linear-gradient(-90deg, #b4b4b4, #197279);
 }
 
 .sidebar-menu{
